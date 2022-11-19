@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+    .windowsize {
+        @apply w-7/12 min-w-[800px] max-w-[1100px] mx-auto flex ;
+    }
+    .windowsize-noflex {
+        @apply w-7/12 min-w-[800px] max-w-[1100px] mx-auto ;
+
+        
+    }
+
+}
