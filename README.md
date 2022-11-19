@@ -19,7 +19,7 @@ O projeto possui algumas funcionalidades interessantes, como:
 - Pesquisa por limites de preço, kilometragem, ano e por marca e nome;
 - Adição, remoção e edição de veículos;
 - Visualização de detalhes do veículo.
-- 
+
 ## Tecnologias
 
 Para o desenvolvimento desse projeto foram utilizadas as seguintes tecnologias:
