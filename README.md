@@ -14,9 +14,9 @@ Esse projeto foi desenvolvido com a finalidade de apresentar um catalogo de carr
 
 ## Funcionalidades
 
-O projeto possui algumas funcionalidades interessantes, como:
+O projeto possui funcionalidades, como:
 
-- Pesquisa por limites de preço, kilometragem, ano e por marca e nome;
+- Pesquisa por limites de preço, quilometragem, ano e por marca e nome;
 - Adição, remoção e edição de veículos;
 - Visualização de detalhes do veículo.
 
