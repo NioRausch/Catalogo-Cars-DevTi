@@ -25,10 +25,16 @@ O projeto possui algumas funcionalidades interessantes, como:
 Para o desenvolvimento desse projeto foram utilizadas as seguintes tecnologias:
 
 - [Laravel](https://laravel.com/)
+- [HTML](https://www.w3.org/TR/html52/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [JavaScript](https://www.javascript.com/)
-- [HTML](https://www.w3.org/TR/html52/)
 
 ## Como utilizar
 
-Para utilizar esse projeto, basta clonar o repositório e iniciar o servidor.
+Para utilizar esse projeto, basta clonar e seguir os seguintes passos:
+- Iniciar a database mysql
+- Importar o arquivo sql no `/database` e pro banco de dados ou fazer um `php artisan migrate`
+- Abrir um console e exercutar `php artisan server`
+- Abrir outro console e executar o vite `npm run dev`
+- Acessar o [localhost](http://localhost:8000/)
+
