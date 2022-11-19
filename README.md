@@ -19,3 +19,16 @@ O projeto possui algumas funcionalidades interessantes, como:
 - Pesquisa por limites de preço, kilometragem, ano e por marca e nome;
 - Adição, remoção e edição de veículos;
 - Visualização de detalhes do veículo.
+- 
+## Tecnologias
+
+Para o desenvolvimento desse projeto foram utilizadas as seguintes tecnologias:
+
+- [Laravel](https://laravel.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [JavaScript](https://www.javascript.com/)
+- [HTML](https://www.w3.org/TR/html52/)
+
+## Como utilizar
+
+Para utilizar esse projeto, basta clonar o repositório e iniciar o servidor.
