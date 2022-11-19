@@ -8,9 +8,9 @@
 </p>
 
 
-# Projeto de catalogo de carros
+# Projeto de catálogo de carros
 
-Esse projeto foi desenvolvido com a finalidade de apresentar um catalogo de carros de forma simples e objetiva.
+Esse projeto foi desenvolvido com a finalidade de apresentar um catálogo de carros de forma simples e objetiva.
 
 ## Funcionalidades
 
